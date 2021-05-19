@@ -1,0 +1,2 @@
+# Hurricane-Analysis-Project
+This project asks to write several functions that organize and manipulate data about Category 5 Hurricanes, the strongest hurricanes as rated by their wind speed. Each one of these functions uses a number of parameters, conditionals, lists, dictionaries, string manipulation, and return statements. This project is focused on data manipulation via extensive use of Python dictionaries.
